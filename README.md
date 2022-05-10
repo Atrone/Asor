@@ -10,3 +10,6 @@
 1. Be careful with your shots! Shooting drains your energy/size.
 2. Move around! You gain energy/size by moving.
 3. You get 2X points at max size!
+
+
+Excuse the lack of commits... this project was made many years ago before my youth brain understood the value of version control...
