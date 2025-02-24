@@ -1,6 +1,8 @@
 # Asor
 # HOW TO PLAY:
 
+go here https://asor-atrony.replit.app/
+
 1. Unzip, and then double click on Asor/neko/bin/Asor.exe
 2. WASD to move, point and click to shoot.
 3. Have fun!
